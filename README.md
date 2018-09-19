@@ -7,7 +7,7 @@ Modification of [Wechat Explorer](https://github.com/humiaozuzu/wechat-explorer)
 ### Install via pip
 
 ```bash
-pip install wechat-exportizer
+pip install wechat-exporter
 ```
 
 ### Export wechat data from your iOS backup
